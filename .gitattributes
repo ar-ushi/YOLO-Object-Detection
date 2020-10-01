@@ -1,0 +1,4 @@
+Data/** filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+train-annotations-bbox.csv filter=lfs diff=lfs merge=lfs -text
